@@ -1,2 +1,1 @@
-# T2-CSS-Assignment
-CSS Assignment - Yr 9 2021
+<h1 align="center">CSS Assignment - Yr 9 2021</h1>
